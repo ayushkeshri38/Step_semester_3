@@ -1,5 +1,15 @@
 # Step_semester_3
 
+## Date: 05-09-2026
+**Today's Work:**
+- Completed the class and assignment problems for Week 5.
+
+**Next Session Plan:**
+- Start working on the problems for Week 6.
+
+**Issues Faced:**
+- Faced an issue with the placement ranking problem and corrected the eligibility logic.
+
 ## Date: 29-08-2026
 **Today's Work:**
 - Completed the class and assignment problems for Week 4.
