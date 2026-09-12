@@ -1,5 +1,15 @@
 # Step_semester_3
 
+## Date: 12-09-2026
+**Today's Work:**
+- Completed the class and assignment problems for Week 6.
+
+**Next Session Plan:**
+- Continue with the problems for the next session.
+
+**Issues Faced:**
+- None
+
 ## Date: 05-09-2026
 **Today's Work:**
 - Completed the class and assignment problems for Week 5.
